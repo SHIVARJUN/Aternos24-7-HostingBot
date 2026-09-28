@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "neellovedash.aternos.me:14401",
+    "ip": "neellovedash.aternos.me",
     "port": 14401,
     "version": "",
     "try-creative": false
